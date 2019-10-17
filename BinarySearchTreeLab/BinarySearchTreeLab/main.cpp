@@ -2,11 +2,11 @@
 
 int main()
 {
-	Tree t;
+	Tree t; //Main (root) node for the tree
 	int condition = 0;
 	while (condition != 8)
 	{
-
+		//Main Menu 
 		cout << "============================================Menu============================================== " << endl << endl;
 		cout << "\t\t\t\tPress 1 to ADD a node " << endl;
 		cout << "\t\t\t\tPress 2 to DELETE a node " << endl;

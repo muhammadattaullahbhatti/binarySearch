@@ -14,7 +14,7 @@ int main()
 		cout << "\t\t\t\tPress 4 for IN-ORDER traversal" << endl;
 		cout << "\t\t\t\tPress 5 for POST-ORDER traversal" << endl;
 		cout << "\t\t\t\tPress 6 for SEARCH" << endl;
-	   //cout << "\t\t\t\tPress 7 for mirror" << endl;
+	        cout << "\t\t\t\tPress 7 for mirror" << endl;
 		cout << "\t\t\t\tPress 8 exit " << endl;
 
 		cout << "please enter Your Choice" << endl;

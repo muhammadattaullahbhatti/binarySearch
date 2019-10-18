@@ -1,5 +1,5 @@
 # include "tree.h"
-
+//You can initialize your default constructor even in declaration file to and there set root value to nullptr to avoid code complexity
 Tree::Tree()
 {
 	root = nullptr;

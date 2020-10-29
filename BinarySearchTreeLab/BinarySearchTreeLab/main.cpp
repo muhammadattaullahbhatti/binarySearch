@@ -78,6 +78,6 @@ int main()
 		}
 	}
 
-	system("pause");
+	system("pause");   #to stop visual studio from closing execution terminal
 	return 0;
 }
